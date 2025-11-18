@@ -1,8 +1,8 @@
-# CTFXPlots+
+# JFXTPlots+
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img src="CTFXPlots+ Demo.png" alt="Demo" width="600"/>
-CTFXPlots+ is a custom JavaFX library designed for seamless and performant trading chart integration. Built with efficiency in mind, this library leverages optimized rendering techniques to ensure smooth charting experiences for financial applications.
+<img src="JFXTPlots+ Demo.png" alt="Demo" width="600"/>
+JFXTPlots+ is a custom JavaFX library designed for seamless and performant trading chart integration. Built with efficiency in mind, this library leverages optimized rendering techniques to ensure smooth charting experiences for financial applications.
 
 ## Features
 - **High-Performance OHLC Charts**: Leverages JavaFX Canvas for efficient rendering of candlestick charts.
@@ -27,7 +27,7 @@ The `OHLCChart` class is a custom JavaFX chart built for financial data visualiz
 - **Interactive Features**: Supports zooming, panning, and real-time updates.
 
 ## Installation
-To use **CTFXPlots+** in your JavaFX project:
+To use **JFXTPlots+** in your JavaFX project:
 
 1. Clone the repository:
    ```sh
@@ -51,7 +51,7 @@ plotHandler.showOHLCChart(scrollPane, chartPane, true, 50, ohlcDataList);
 - [ ] Tailored Customization (Themes, Color Schemes, Indicators)
 
 ## License
-CTFXPlots+ is released under the MIT License.
+JFXTPlots+ is released under the MIT License.
 
 ## Contributing
 I'm a solo developer. Contributions are more than welcome! If you’d like to contribute, please fork the repository and submit a pull request.
