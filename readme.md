@@ -1,7 +1,7 @@
 # JFXTPlots+
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img src="JFXTPlots+ Demo.png" alt="Demo" width="600"/>
+<img src="CTFXPlots+ Demo.png" alt="Demo" width="600"/>
 JFXTPlots+ is a custom JavaFX library designed for seamless and performant trading chart integration. Built with efficiency in mind, this library leverages optimized rendering techniques to ensure smooth charting experiences for financial applications.
 
 ## Features
