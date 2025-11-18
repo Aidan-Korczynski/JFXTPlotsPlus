@@ -31,7 +31,7 @@ To use **JFXTPlots+** in your JavaFX project:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Chokinski/CTFXPlotsPlus.git
+   git clone https://github.com/Aidan-Korczynski/JFXTPlotsPlus.git
    ```
 2. Add the library to your JavaFX project:
    - If using Maven, add dependencies (to be defined in future versions).
@@ -59,5 +59,4 @@ I'm a solo developer. Contributions are more than welcome! If you’d like to co
 ## Contact
 For questions or support, reach out via GitHub Issues or email `aidankorczynskibusy@gmail.com`.
 
-##
 
